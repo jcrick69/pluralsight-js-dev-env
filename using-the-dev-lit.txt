@@ -1,0 +1,18 @@
+Pluralsight JS Dev Env - Starter Kit
+====================================
+
+Use GIT
+
+Updating git from Git CMD
+
+From the directory D:\JS_StarterKit\pluralsight-js-dev-env
+
+1. Stage all files
+git add .
+
+2. Commit changes locally
+git commit -m "added new features"
+
+3. Push work to Github
+git push
+
